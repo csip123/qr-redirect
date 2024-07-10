@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chọn Đối Tượng</title>
+</head>
+<body>
+    <h1>Quý vị là:</h1>
+    <button onclick="window.location.href='https://forms.gle/DfbSL9vVbBY26zvDA'">A. Doanh nghiệp Tạo tác động Xã hội (SIB)</button>
+    <button onclick="window.location.href='https://forms.gle/HEv53qZPqEaNCVJ38'">B. Chuyên gia, Đại diện Tổ chức hỗ trợ SIBs</button>
+</body>
+</html>
